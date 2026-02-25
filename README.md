@@ -1,2 +1,2 @@
 # KlyLauncher
-Minecraft Launcher by Klymorias And Kelvin
+Minecraft Launcher by KlyMorias And Kelvin
